@@ -1,3 +1,3 @@
-# apiinal
-api project
-run the server beore android
+#android
+open server file and run it according to the reamd.me in it
+run the andorid
